@@ -1,0 +1,13 @@
+what ?
+	git&github lưu trữ file
+	tạo website demo trực tuyến sử dụng khi phát triển front-end
+	tạo website các nhân trực tuyến với tên miền tùy chọn và miễn phí
+	nhúng gg form vào github như thế nào
+	
+command statement :
+https://github.com/duansuperman/duansuperman.github.io.git
+	git init
+	git add "tên file"
+	git remote add origin "Đường dẫn"
+	git commit -m "messenger"
+	git push origin master
